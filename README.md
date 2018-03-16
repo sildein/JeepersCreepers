@@ -20,8 +20,9 @@ see a few things I'll be adding to it for usability's sake.
 
 ### How It Works
 When you first start the server or the last player logs off, the plugin will
-save the time and difficulty, and disable the day/night cycle. When a player
-logs in, these settings are restored.
+save the time and difficulty, set the time to 1000 and the difficulty to
+Peaceful, and disable the day/night cycle. When a player logs in, these
+settings are restored.
 
 ### License
 ```
