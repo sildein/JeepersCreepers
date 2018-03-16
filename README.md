@@ -13,10 +13,10 @@ It has the bare minimum functionality to be useful right now, and I can already
 see a few things I'll be adding to it for usability's sake.
 
 ### Usage
-1. Download the latest version from [here]().
+1. Download the latest version from [here](https://github.com/sildein/JeepersCreepers/releases/latest).
 2. Drop it in `/plugins`.
 3. ???
-4. Profit
+4. Profit.
 
 ### How It Works
 When you first start the server or the last player logs off, the plugin will
